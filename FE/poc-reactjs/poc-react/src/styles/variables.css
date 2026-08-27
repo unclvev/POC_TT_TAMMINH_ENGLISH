@@ -1,0 +1,12 @@
+:root {
+  --color-text: #1f2937;
+  --color-muted: #6b7280;
+  --color-bg: #f5f6f8;
+  --color-surface: #ffffff;
+  --color-border: #e5e7eb;
+  --color-primary: #1d4ed8;
+  --color-primary-soft: #eff6ff;
+  --sidebar-width: 240px;
+  --header-height: 64px;
+  --font-sans: system-ui, 'Segoe UI', Roboto, sans-serif;
+}
